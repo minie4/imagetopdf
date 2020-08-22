@@ -1,5 +1,5 @@
 # Image to PDF Converter
-A small webapp to convert images into a PDF file
+A small webapp to convert images to a PDF file
 
 ## Usage
 You can use the WebApp on this URL:
